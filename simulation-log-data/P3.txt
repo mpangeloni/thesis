@@ -1,0 +1,173 @@
+------------------------------------------------------------------------------------
+I'm in the bedroom (coordinates 3 -9).
+08:00:01 sensor M007 ON
+08:00:01 sensor M005 ON
+08:00:01 sensor M003 ON
+08:00:06 sensor M005 OFF
+08:00:06 sensor M003 OFF
+08:00:06 sensor M001 ON
+08:00:07 room_changing bedroom corridor
+08:00:07 sensor M007 OFF
+08:00:13 sensor M007 ON
+08:00:14 sensor M005 ON
+08:00:14 sensor M001 OFF
+08:00:14 sensor M003 ON
+08:00:15 room_changing corridor bedroom
+08:00:25 sensor M002 ON
+08:00:26 room_changing bedroom corridor
+08:00:26 sensor M006 ON
+08:00:26 sensor M007 OFF
+08:00:26 sensor M002 OFF
+08:00:38 sensor M002 ON
+08:00:38 sensor M007 ON
+08:00:38 sensor M006 OFF
+08:00:39 sensor M005 OFF
+08:00:40 sensor M002 OFF
+08:00:40 sensor M003 OFF
+08:00:40 sensor M001 ON
+08:00:51 sensor M001 OFF
+08:00:51 sensor M003 ON
+08:02:34 sensor M002 ON
+08:02:34 sensor M005 ON
+08:02:35 sensor M006 ON
+08:02:41 sensor M007 OFF
+08:02:41 sensor M002 OFF
+08:02:41 sensor M008 ON
+08:02:41 sensor M005 OFF
+08:02:42 room_changing corridor bedroom
+08:04:16 sensor M003 OFF
+08:04:17 room_changing bedroom corridor
+08:04:17 sensor M006 OFF
+08:04:18 sensor M020 ON
+08:04:18 sensor M013 ON
+08:04:18 sensor M008 OFF
+08:04:53 sensor M020 OFF
+08:04:54 sensor M013 OFF
+08:05:01 sensor M008 ON
+08:05:17 sensor M008 OFF
+08:05:31 sensor M013 ON
+08:05:32 sensor M020 ON
+08:05:34 room_changing corridor living room
+08:06:50 room_changing living room corridor
+08:06:50 sensor M013 OFF
+08:06:50 sensor M009 ON
+08:06:50 sensor M020 OFF
+08:06:56 sensor M013 ON
+08:06:56 sensor M020 ON
+08:06:56 sensor M009 OFF
+08:07:13 sensor M020 OFF
+08:07:13 sensor M009 ON
+08:07:13 sensor M013 OFF
+08:07:13 sensor M008 ON
+08:07:15 sensor M006 ON
+08:07:15 sensor M009 OFF
+08:07:15 sensor M003 ON
+08:07:16 sensor M002 ON
+08:07:16 sensor M008 OFF
+08:07:17 sensor M006 OFF
+08:07:17 sensor M007 ON
+08:07:18 room_changing corridor bedroom
+08:07:18 sensor M003 OFF
+08:07:19 room_changing bedroom corridor
+08:08:26 sensor M003 ON
+08:08:27 sensor M006 ON
+08:08:28 room_changing corridor bedroom
+08:09:31 sensor M006 OFF
+08:09:32 room_changing bedroom corridor
+08:09:32 sensor M003 OFF
+08:09:33 sensor M002 OFF
+08:09:33 sensor M001 ON
+08:09:44 sensor M002 ON
+08:09:44 sensor M001 OFF
+08:09:45 sensor M003 ON
+08:09:52 sensor M007 OFF
+08:09:52 sensor M006 ON
+08:09:53 sensor M002 OFF
+08:09:53 sensor M008 ON
+08:09:54 sensor M003 OFF
+08:09:55 sensor M006 OFF
+08:09:56 sensor M013 ON
+08:09:56 sensor M008 OFF
+08:09:56 sensor M020 ON
+08:10:02 room_changing corridor living room
+08:10:51 room_changing living room corridor
+08:10:54 sensor M020 OFF
+08:10:55 sensor M013 OFF
+08:10:57 sensor M014 ON
+08:14:42 sensor M014 OFF
+08:14:44 sensor M013 ON
+08:14:45 sensor M020 ON
+08:14:47 room_changing corridor living room
+08:16:04 room_changing living room corridor
+08:16:04 sensor M013 OFF
+08:16:04 sensor M020 OFF
+08:16:04 sensor M008 ON
+08:16:05 sensor M006 ON
+08:16:31 sensor M003 ON
+08:16:32 sensor M002 ON
+08:16:32 sensor M008 OFF
+08:16:33 sensor M007 ON
+08:16:33 sensor M006 OFF
+08:17:25 sensor M007 OFF
+08:17:25 sensor M006 ON
+08:17:26 sensor M002 OFF
+08:17:26 sensor M008 ON
+08:17:27 sensor M003 OFF
+08:17:28 sensor M006 OFF
+08:17:29 sensor M020 ON
+08:17:29 sensor M013 ON
+08:17:29 sensor M008 OFF
+08:18:22 sensor M013 OFF
+08:18:22 sensor M009 ON
+08:18:23 sensor M010 ON
+08:18:23 sensor M020 OFF
+08:18:27 sensor M010 OFF
+08:18:27 sensor M020 ON
+08:18:46 sensor M013 ON
+08:18:46 sensor M009 OFF
+08:19:16 sensor M013 OFF
+08:19:16 sensor M020 OFF
+08:19:22 sensor M014 ON
+08:23:07 sensor M014 OFF
+08:23:09 sensor M013 ON
+08:23:10 sensor M020 ON
+08:24:33 sensor M020 OFF
+08:24:34 sensor M013 OFF
+08:25:23 sensor M013 ON
+08:25:24 sensor M020 ON
+08:25:32 sensor M013 OFF
+08:25:32 sensor M009 ON
+08:25:33 sensor M010 ON
+08:25:33 sensor M020 OFF
+08:26:21 sensor M009 OFF
+08:26:21 sensor M011 ON
+08:26:24 sensor M009 ON
+08:26:24 sensor M011 OFF
+08:26:26 sensor M020 ON
+08:26:26 sensor M010 OFF
+08:26:32 sensor M020 OFF
+08:26:33 sensor M012 ON
+08:26:33 sensor M009 OFF
+09:00:00 random number 1: 0 [did not use the application.] [0..11] I am in the corridor.
+09:02:34 sensor M012 OFF
+09:02:34 sensor M010 ON
+09:03:14 sensor M009 ON
+09:03:18 sensor M009 OFF
+09:03:18 sensor M010 OFF
+09:03:18 sensor M012 ON
+09:30:00 I am walking in the corridor
+12:00:00 random number 1: 2 [did not use the application.] [0..11] I am in the corridor.
+12:30:00 I am walking in the corridor
+15:00:00 random number 1: 3 [did not use the application.] [0..11] I am in the corridor.
+15:30:00 I am walking in the corridor
+18:00:00 random number 1: 10 [could not use the application.] [0..11] I am in the corridor.
+18:30:00 I am walking in the corridor
+21:00:00 random number 1: 2 [did not use the application.] [0..11] I am in the corridor.
+21:30:00 I am walking in the corridor
+00:00:00 random number 1: 0 [did not use the application.] [0..11] I am in the corridor.
+00:30:00 I am walking in the corridor
+03:00:00 random number 1: 7 [message: I broke something.] [0..11] I am in the corridor.
+03:30:00 I am walking in the corridor
+06:00:00 random number 1: 7 [message: I broke something.] [0..11] I am in the corridor.
+06:30:00 I am walking in the corridor
+08:00:00 end-of-simulation
