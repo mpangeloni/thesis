@@ -10,3 +10,5 @@ This repository provides the source codes and outcomes presented in the PhD thes
 - the **simulation-log-data** directory provides the outcome from the simulation executed in the abms in NetLogo;
 - the **qinu-measures** directory provides the outcome of the measurements for the selected QinU characteristics;
 - the **webpage** directory provides the source code for the software application evaluated in the proof of concept.
+
+## How to execute the methodology
