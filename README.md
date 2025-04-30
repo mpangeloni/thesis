@@ -12,3 +12,6 @@ This repository provides the source codes and outcomes presented in the PhD thes
 - the **webpage** directory provides the source code for the software application evaluated in the proof of concept.
 
 ## How to execute the methodology
+- To initiate the process, launch the **abms-observer**;
+- This will then launch both the **abms** and the **webpage**;
+- ...
