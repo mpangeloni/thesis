@@ -13,13 +13,6 @@ This repository provides the source codes and outcomes presented in the PhD thes
 
 As the apk file for ParkinsonCom is larger than 25MB, it is not possible to upload it to GitHub. It will be provided upon demand.
 
-## How to execute the methodology for Help Me!
-- The source code of the webpage must be compiled and executed using a web server environment. In this experimental study, the application was run locally using IIS Express, which allows you to host and test the website on your local machine;
-- To initiate the process, launch the Python script for the **abms-observer** for the Help Me! application;
-- This will then launch both the **abms** and the **webpage**;
-- Allow for the coded sequence to follow its flow;
-- The log data will be stored, ready for the extraction of relevant data.
-
 ## How to execute the methodology for ParkinsonCom
 - Install the APK file of ParkinsonCom in an Android emulator. In this experimental study, the application was run on Nox;
 - Register at least one primary contact and set up the medicine alarm;
@@ -27,3 +20,10 @@ As the apk file for ParkinsonCom is larger than 25MB, it is not possible to uplo
 - This will then launch both the **abms** and the **ParkinsonCom**;
 - Allow for the coded sequence to follow its flow;
 - **ATTENTION:** for the replication of this experiment, it is necessary to adapt the script to open your emulator of choice (e.g., the Nox application) and the coordinates of your computer screen as provided by the AutoIt software (as the AutoIt library for Python was employed in this experimental study).
+
+## How to execute the methodology for Help Me!
+- The source code of the webpage must be compiled and executed using a web server environment. In this experimental study, the application was run locally using IIS Express, which allows you to host and test the website on your local machine;
+- To initiate the process, launch the Python script for the **abms-observer** for the Help Me! application;
+- This will then launch both the **abms** and the **webpage**;
+- Allow for the coded sequence to follow its flow;
+- The log data will be stored, ready for the extraction of relevant data.
