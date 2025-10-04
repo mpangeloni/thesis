@@ -1,4 +1,4 @@
-# thesis
+# README
 
 This repository provides the source codes and outcomes presented in the PhD thesis entitled _Quality in use evaluation of smart environment applications by agent-based simulation_ to be presented on December 12th of 2025 in Université Polytechnique Hauts-de-France.
 
