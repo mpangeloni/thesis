@@ -1,6 +1,6 @@
 # README
 
-This repository provides the source codes and outcomes presented in the PhD thesis entitled _Quality in use evaluation of smart environment applications by agent-based simulation_ to be presented on December 12th of 2025 in Université Polytechnique Hauts-de-France.
+This repository provides the source codes and outcomes presented in the PhD thesis entitled _Quality in use evaluation of smart environment applications by agent-based simulation_ presented on December 11th of 2025 in Université Polytechnique Hauts-de-France.
 
 - the **abms** directory provides the agent-based model and simulation coded in NetLogo;
 - the **abms-observer** directory provides the abms observer, supposed to launch both the abms and the software application under evaluation (**Help Me!** or **ParkinsonCom**);
