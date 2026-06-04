@@ -1,8 +1,3 @@
---
--- File generated with SQLiteStudio v3.4.17 on Thu Aug 21 00:23:56 2025
---
--- Text encoding used: System
---
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
 
@@ -20,30 +15,7 @@ CREATE TABLE IF NOT EXISTS my_table (
     id_event       INTEGER
 );
 
-INSERT INTO my_table (
-                         id,
-                         type,
-                         startTime,
-                         endTime,
-                         starting_point,
-                         arrival_point,
-                         id_dialog,
-                         id_contact,
-                         id_reminder,
-                         id_event
-                     )
-                     VALUES (
-                         16,
-                         'validate_notification_reminder',
-                         '2025-05-20 09:00:00',
-                         '2025-08-20 10:00:00',
-                         'null',
-                         'null',
-                         'null',
-                         'null',
-                         1,
-                         'null'
-                     );
+
 
 INSERT INTO my_table (
                          id,
